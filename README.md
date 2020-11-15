@@ -1,3 +1,3 @@
 
-<a href="https://patreon.com/endel"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dendel%26type%3Dpatrons&style=for-the-badge" /></a>
+<a href="https://www.patreon.com/bePatron?u=44431519" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
